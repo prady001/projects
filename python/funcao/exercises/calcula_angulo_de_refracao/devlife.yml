@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 2
+slug: aulas/python/funcao/exercises/calcula_angulo_de_refracao
+studentFile: solution.py
+tags:
+- python
+- funcao
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Calcula \xE2ngulo de refra\xE7\xE3o"
+weight: 1

@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/python/dicionario/exercises/lista_para_dicionario
+studentFile: solution.py
+tags:
+- python
+- dicionario
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Lista para dicion\xE1rio"
+weight: 1

@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 2
+slug: aulas/python/dicionario/exercises/conta_ocorrencias_de_palavras
+studentFile: solution.py
+tags:
+- python
+- dicionario
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Conta ocorr\xEAncias de palavras"
+weight: 1

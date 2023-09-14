@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 2
+slug: aulas/python/dicionario/exercises/mes_para_numero
+studentFile: solution.py
+tags:
+- python
+- dicionario
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "M\xEAs para n\xFAmero"
+weight: 1

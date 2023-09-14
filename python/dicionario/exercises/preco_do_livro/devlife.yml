@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/python/dicionario/exercises/preco_do_livro
+studentFile: solution.py
+tags:
+- python
+- dicionario
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Pre\xE7o do livro"
+weight: 1

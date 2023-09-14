@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/python/dicionario/exercises/tempo_de_conclusao_de_100_metros_rasos
+studentFile: solution.py
+tags:
+- python
+- dicionario
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Tempo de conclus\xE3o de 100 metros rasos"
+weight: 1

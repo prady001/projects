@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/design/introducao-ao-html/exercises/primeiro_html
+studentFile: exemplo.html
+tags:
+- design
+- introducao-ao-html
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_html.py
+title: Primeiro HTML
+weight: 1

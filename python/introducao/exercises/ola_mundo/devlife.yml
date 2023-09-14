@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/python/introducao/exercises/ola_mundo
+studentFile: solution.py
+tags:
+- python
+- introducao
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Ol\xE1 mundo!"
+weight: 1

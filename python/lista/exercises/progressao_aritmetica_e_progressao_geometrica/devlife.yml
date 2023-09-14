@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 3
+slug: aulas/python/lista/exercises/progressao_aritmetica_e_progressao_geometrica
+studentFile: solution.py
+tags:
+- python
+- lista
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Progress\xE3o Aritm\xE9tica e Progress\xE3o Geom\xE9trica"
+weight: 1

@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 3
+slug: aulas/python/algoritmos-1/exercises/estimando_o_valor_de_pi_2
+studentFile: solution.py
+tags:
+- python
+- algoritmos-1
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Estimando o valor de pi (Vers\xE3o 2)"
+weight: 1

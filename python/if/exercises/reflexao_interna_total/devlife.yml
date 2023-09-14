@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 2
+slug: aulas/python/if/exercises/reflexao_interna_total
+studentFile: solution.py
+tags:
+- python
+- if
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Reflex\xE3o interna total"
+weight: 1

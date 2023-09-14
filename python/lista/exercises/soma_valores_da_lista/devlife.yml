@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/python/lista/exercises/soma_valores_da_lista
+studentFile: solution.py
+tags:
+- python
+- lista
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: Soma valores da lista
+weight: 1

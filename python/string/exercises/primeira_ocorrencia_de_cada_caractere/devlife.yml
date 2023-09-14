@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 2
+slug: aulas/python/string/exercises/primeira_ocorrencia_de_cada_caractere
+studentFile: solution.py
+tags:
+- python
+- string
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Primeira ocorr\xEAncia de cada caractere"
+weight: 1

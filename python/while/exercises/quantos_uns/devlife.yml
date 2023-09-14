@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 3
+slug: aulas/python/while/exercises/quantos_uns
+studentFile: solution.py
+tags:
+- python
+- while
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: Quantos uns
+weight: 1

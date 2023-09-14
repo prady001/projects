@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 3
+slug: aulas/python/dicionario/exercises/inverte_dicionario
+studentFile: solution.py
+tags:
+- python
+- dicionario
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Inverte dicion\xE1rio"
+weight: 1

@@ -1,0 +1,11 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/pygame/desenhando/exercises/bandeira_franca
+studentFile: jogo.py
+tags:
+- pygame
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_jogo.py
+title: "Bandeira da Fran\xE7a"
+weight: 1

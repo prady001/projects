@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 2
+slug: aulas/python/while/exercises/maior_erro_da_funcao_seno_de_bhaskara
+studentFile: solution.py
+tags:
+- python
+- while
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Maior erro da fun\xE7\xE3o seno de Bhaskara"
+weight: 1

@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/design/introducao-ao-html/exercises/html_completo
+studentFile: exemplo.html
+tags:
+- design
+- introducao-ao-html
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_html.py
+title: HTML completo
+weight: 1

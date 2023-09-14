@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 2
+slug: aulas/python/string/exercises/nomes_de_usuarios
+studentFile: solution.py
+tags:
+- python
+- string
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Nomes de usu\xE1rios"
+weight: 1

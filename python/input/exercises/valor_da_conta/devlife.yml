@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/python/input/exercises/valor_da_conta
+studentFile: solution.py
+tags:
+- python
+- input
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: Valor da conta
+weight: 1

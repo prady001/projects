@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 2
+slug: aulas/python/input/exercises/reducao_no_tempo_de_vida_de_um_fumante
+studentFile: solution.py
+tags:
+- python
+- input
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Redu\xE7\xE3o no tempo de vida de um fumante"
+weight: 1

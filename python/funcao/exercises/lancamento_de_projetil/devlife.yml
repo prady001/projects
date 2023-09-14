@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 2
+slug: aulas/python/funcao/exercises/lancamento_de_projetil
+studentFile: solution.py
+tags:
+- python
+- funcao
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Lan\xE7amento de proj\xE9til"
+weight: 1

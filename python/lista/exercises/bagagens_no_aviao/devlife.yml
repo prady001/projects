@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 2
+slug: aulas/python/lista/exercises/bagagens_no_aviao
+studentFile: solution.py
+tags:
+- python
+- lista
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Bagagens no avi\xE3o"
+weight: 1

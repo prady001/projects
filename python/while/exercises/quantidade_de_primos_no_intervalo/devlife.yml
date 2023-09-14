@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 4
+slug: aulas/python/while/exercises/quantidade_de_primos_no_intervalo
+studentFile: solution.py
+tags:
+- python
+- while
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: Quantidade de primos no intervalo
+weight: 1

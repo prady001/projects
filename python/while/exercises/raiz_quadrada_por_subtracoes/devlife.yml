@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/python/while/exercises/raiz_quadrada_por_subtracoes
+studentFile: solution.py
+tags:
+- python
+- while
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Raiz quadrada por subtra\xE7\xF5es"
+weight: 1

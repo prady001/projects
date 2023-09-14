@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/python/if/exercises/calculo_de_aumento_de_salario
+studentFile: solution.py
+tags:
+- python
+- if
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "C\xE1lculo de aumento de sal\xE1rio"
+weight: 1

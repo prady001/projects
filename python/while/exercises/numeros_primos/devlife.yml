@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 2
+slug: aulas/python/while/exercises/numeros_primos
+studentFile: solution.py
+tags:
+- python
+- while
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "N\xFAmeros primos"
+weight: 1

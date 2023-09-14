@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 4
+slug: aulas/python/for/exercises/primos_no_intervalo
+studentFile: solution.py
+tags:
+- python
+- for
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: Primos no intervalo
+weight: 1

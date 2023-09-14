@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/python/funcao/exercises/movimento_retilineo_uniforme
+studentFile: solution.py
+tags:
+- python
+- funcao
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Movimento retil\xEDneo uniforme"
+weight: 1

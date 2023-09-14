@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 2
+slug: aulas/python/string/exercises/posicao_do_arroba
+studentFile: solution.py
+tags:
+- python
+- string
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Posi\xE7\xE3o do @"
+weight: 1

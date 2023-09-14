@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 5
+slug: aulas/python/while/exercises/maior_fator_primo
+studentFile: solution.py
+tags:
+- python
+- while
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: Maior fator primo
+weight: 1

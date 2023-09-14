@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/python/string/exercises/conta_ocorrencias_de_a
+studentFile: solution.py
+tags:
+- python
+- string
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Conta Ocorr\xEAncias de a"
+weight: 1

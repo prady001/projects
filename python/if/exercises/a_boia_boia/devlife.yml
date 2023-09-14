@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/python/if/exercises/a_boia_boia
+studentFile: solution.py
+tags:
+- python
+- if
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: A boia boia
+weight: 1

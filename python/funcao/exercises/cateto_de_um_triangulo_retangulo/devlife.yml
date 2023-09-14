@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/python/funcao/exercises/cateto_de_um_triangulo_retangulo
+studentFile: solution.py
+tags:
+- python
+- funcao
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Cateto de um tri\xE2ngulo ret\xE2ngulo"
+weight: 1

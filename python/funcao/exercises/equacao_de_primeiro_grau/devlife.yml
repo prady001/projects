@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/python/funcao/exercises/equacao_de_primeiro_grau
+studentFile: solution.py
+tags:
+- python
+- funcao
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "Equa\xE7\xE3o de primeiro grau"
+weight: 1

@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 3
+slug: aulas/python/arquivo/exercises/valor_total_do_estoque
+studentFile: solution.py
+tags:
+- python
+- arquivo
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: Valor Total Do Esqtoque
+weight: 1

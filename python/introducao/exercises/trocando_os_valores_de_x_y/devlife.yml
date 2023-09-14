@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/python/introducao/exercises/trocando_os_valores_de_x_y
+studentFile: solution.py
+tags:
+- python
+- introducao
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: Trocando os valores de x e y
+weight: 1

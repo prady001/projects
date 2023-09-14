@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/python/for/exercises/junta_nome_e_sobrenome
+studentFile: solution.py
+tags:
+- python
+- for
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: Junta nome e sobrenome
+weight: 1

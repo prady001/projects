@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 3
+slug: aulas/python/lista/exercises/inverte_a_lista
+studentFile: solution.py
+tags:
+- python
+- lista
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: Inverte a lista
+weight: 1

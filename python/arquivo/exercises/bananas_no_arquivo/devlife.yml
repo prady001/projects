@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 2
+slug: aulas/python/arquivo/exercises/bananas_no_arquivo
+studentFile: solution.py
+tags:
+- python
+- arquivo
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: Bananas no arquivo
+weight: 1

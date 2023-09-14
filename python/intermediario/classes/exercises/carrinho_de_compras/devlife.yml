@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 2
+slug: aulas/python/intermediario/classes/exercises/carrinho_de_compras
+studentFile: solution.py
+tags:
+- python
+- classes
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: Carrinho de compras
+weight: 1

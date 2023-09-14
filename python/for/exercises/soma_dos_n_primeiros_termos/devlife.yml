@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/python/for/exercises/soma_dos_n_primeiros_termos
+studentFile: solution.py
+tags:
+- python
+- for
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: Soma dos n primeiros termos
+weight: 1

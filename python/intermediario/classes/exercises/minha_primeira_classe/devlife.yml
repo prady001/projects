@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 1
+slug: aulas/python/intermediario/classes/exercises/minha_primeira_classe
+studentFile: classes.py
+tags:
+- python
+- classes
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_classes.py
+title: Minha primeira classe
+weight: 1

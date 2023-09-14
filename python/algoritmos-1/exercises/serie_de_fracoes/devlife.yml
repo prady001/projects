@@ -1,0 +1,12 @@
+course: devlife-23-2
+difficulty: 2
+slug: aulas/python/algoritmos-1/exercises/serie_de_fracoes
+studentFile: solution.py
+tags:
+- python
+- algoritmos-1
+- code-exercise
+telemetryEndpoint: https://devlife-api.insper-comp.com.br/api/telemetry
+testFile: test_solution.py
+title: "S\xE9rie de fra\xE7\xF5es"
+weight: 1
